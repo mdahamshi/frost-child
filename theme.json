@@ -1,0 +1,83 @@
+{
+  "version": 2,
+  "settings": {
+    "color": {
+      "palette": [
+        {
+          "slug": "pastel-pink",
+          "color": "#FFB6C1",
+          "name": "Pastel Pink"
+        },
+        {
+          "slug": "pastel-blue",
+          "color": "#ADD8E6",
+          "name": "Pastel Blue"
+        },
+        {
+          "slug": "mint-green",
+          "color": "#98FF98",
+          "name": "Mint Green"
+        },
+        {
+          "slug": "sunny-yellow",
+          "color": "#FFFACD",
+          "name": "Sunny Yellow"
+        }
+      ]
+    },
+    "typography": {
+      "fontSizes": [
+        {
+          "slug": "small",
+          "size": "14px",
+          "name": "Small"
+        },
+        {
+          "slug": "normal",
+          "size": "16px",
+          "name": "Normal"
+        },
+        {
+          "slug": "large",
+          "size": "24px",
+          "name": "Large"
+        },
+        {
+          "slug": "x-large",
+          "size": "32px",
+          "name": "X-Large"
+        }
+      ],
+      "customFontFamilies": [
+        {
+          "fontFamily": "'Comic Sans MS', 'Arial', sans-serif",
+          "name": "Playful Font",
+          "slug": "playful-font"
+        }
+      ]
+    },
+    "spacing": {
+      "blockGap": "1.5rem"
+    }
+  },
+  "styles": {
+    "color": {
+      "background": "#FFFFFF",
+      "text": "#333333"
+    },
+    "typography": {
+      "fontFamily": "Playful Font"
+    },
+    "blocks": {
+      "core/button": {
+        "border": {
+          "radius": "12px"
+        },
+        "color": {
+          "background": "#FFB6C1",
+          "text": "#ffffff"
+        }
+      }
+    }
+  }
+}

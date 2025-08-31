@@ -1,0 +1,23 @@
+/*
+Theme Name: Frost Child - Kids Store
+Theme URI: https://github.com/mdahamshi/frost-child
+Description: Child theme for Frost, customized for a kids’ clothing store
+Author: Sarawebs
+Template: frost
+Version: 1.0
+Text Domain: frost-child
+*/
+
+/* Custom minor CSS adjustments */
+body {
+  font-family: 'Comic Sans MS', 'Arial', sans-serif;
+  /* playful font for headings */
+}
+
+.wp-block-button__link {
+  border-radius: 12px;
+  /* rounded buttons */
+  background-color: #FFB6C1;
+  /* pastel pink for buttons */
+  color: #fff;
+}
